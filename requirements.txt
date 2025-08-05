@@ -1,0 +1,9 @@
+opendatasets
+pandas
+numpy
+tensorflow
+scikit-learn
+Pillow
+kagglehub
+matplotlib
+python-dotenv
